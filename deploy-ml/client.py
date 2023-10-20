@@ -1,10 +1,10 @@
 import requests
 body = {
-    "age": 64,
-    "sex": 1,
+    "age": 54,
+    "sex": 0,
     "cp": 3,
     "trestbps": 120,
-    "chol": 267,
+    "chol": 167,
     "fbs": 0,
     "restecg": 0,
     "thalach": 99,
